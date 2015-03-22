@@ -25,9 +25,9 @@
 ##### 3. CodeBook.md contains the description of the tidy dataset
      What does the script do?
           STEP 1
-          * Combines the two data.frames with the 561-feature vectors with time and frequency domain variables from the __test set__ and the __train set__.The files that contain these data.frames are "train/X_train.txt" and "test/X_test.txt". The results is a data.frame of 10299 observations/rows and 561 variables/columns. This data.frame is called total_features.
-          * Combines the two activity data.frames from the __test set__ and the __train set__.The files that contain these data.frames are "train/y_train.txt" and "test/y_test.txt". The results is a data.frame of 10299 observations/rows and 1 variable/column.This data.frame is called total_activities.
-          * Combines the two subjects data.frames from the __test set__ and the __train set__. The files that contain these data.frames are "train/subject_train.txt" and "test/subject_test.txt". The results is a data.frame of 10299 observations/rows and 1 variable/column. This data.frame is called total_subjects.
+          * Combines the two data.frames with the 561-feature vectors with time and frequency domain variables from the test set and the train set.The files that contain these data.frames are "train/X_train.txt" and "test/X_test.txt". The results is a data.frame of 10299 observations/rows and 561 variables/columns. This data.frame is called total_features.
+          * Combines the two activity data.frames from the test set and the train set.The files that contain these data.frames are "train/y_train.txt" and "test/y_test.txt". The results is a data.frame of 10299 observations/rows and 1 variable/column.This data.frame is called total_activities.
+          * Combines the two subjects data.frames from the test set and the train set. The files that contain these data.frames are "train/subject_train.txt" and "test/subject_test.txt". The results is a data.frame of 10299 observations/rows and 1 variable/column. This data.frame is called total_subjects.
           STEP 2
           * Select only the columns of total_features that contain measurements on the mean and standard deviation for each measurement.
           STEP 3
