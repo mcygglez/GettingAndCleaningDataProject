@@ -84,18 +84,18 @@
 "fbodybodygyrojerkmag-mean" 
 "fbodybodygyrojerkmag-std"
     
-#######These variables contain the mean and standard deviation of time domain and frequency domain signals measured with the embedded accelerometer and gyroscope of a Samsung Galaxy S II.
-Time domain variables are prefixed with the letter "t" and frequency domain variables are prefixed with the letter "f".
-bodyacc -> body linear acceleration
-gravityacc -> gravity acceleration
-bodygyro -> angular velocity
-bodyaccjerk -> body linear acceleration derived in time to obtain Jerk signal
-bodygyrojerk -> angular velocity derived in time to obtain Jerk signal
-bodyaccMag -> magnitude of body linear acceleration using the Euclidean norm
-gravityaccmag -> magnitude of gravity acceleration using the Euclidean norm
-bodygyromag -> magnitude of angular velocity using the Euclidean norm
-bodyaccjerkmag -> magnitude of the Jerk signal of body linear acceleration using the Euclidean norm
-bodygyrojerkmag -> magnitude of the Jerk signal of angular velocity using the Euclidean norm
+###### These variables contain the mean and standard deviation of time domain and frequency domain signals measured with the embedded accelerometer and gyroscope of a Samsung Galaxy S II.
+###### Time domain variables are prefixed with the letter "t" and frequency domain variables are prefixed with the letter "f".
+* bodyacc -> body linear acceleration
+* gravityacc -> gravity acceleration
+* bodygyro -> angular velocity
+* bodyaccjerk -> body linear acceleration derived in time to obtain Jerk signal
+* bodygyrojerk -> angular velocity derived in time to obtain Jerk signal
+* bodyaccMag -> magnitude of body linear acceleration using the Euclidean norm
+* gravityaccmag -> magnitude of gravity acceleration using the Euclidean norm
+* bodygyromag -> magnitude of angular velocity using the Euclidean norm
+* bodyaccjerkmag -> magnitude of the Jerk signal of body linear acceleration using the Euclidean norm
+* bodygyrojerkmag -> magnitude of the Jerk signal of angular velocity using the Euclidean norm
 
-####### Also note that some of this variables refers to a particular dimension (X, Y o Z)
+###### Also note that some of this variables refers to a particular dimension (X, Y o Z)
 
