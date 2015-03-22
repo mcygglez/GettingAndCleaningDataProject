@@ -15,7 +15,7 @@
             5. standing
             6. laying
           
-### The next 66 variables are listed below:
+##### The next 66 numeric variables are listed below:
 
 "tbodyacc-mean-x"           
 "tbodyacc-mean-y"          
