@@ -24,7 +24,7 @@
 
 ##### 3. CodeBook.md contains the description of the tidy dataset
 
-##### 4. final_ds_with_average_measures.txt and final_ds_with_average_measures.csv are the plain text and csv format versions of the tidy dataset
+##### 4. "final_ds_with_average_measures.txt" and "final_ds_with_average_measures.csv" are the plain text and csv format versions of the tidy dataset
           
 
 
