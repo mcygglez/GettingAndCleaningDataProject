@@ -97,5 +97,5 @@
 * bodyaccjerkmag -> magnitude of the Jerk signal of body linear acceleration using the Euclidean norm
 * bodygyrojerkmag -> magnitude of the Jerk signal of angular velocity using the Euclidean norm
 
-###### Also note that some of this variables refers to a particular dimension (X, Y o Z)
+###### Also note that some of these variables refers to a particular dimension (X, Y o Z)
 
