@@ -4,7 +4,7 @@
       Type: numeric 
       Content: identifies the subject/person the data belong to.
       
-### 2. Actitity 
+### 2. Actitities
       Type: character
       Content: identifies the target activity:
           Possible values:
